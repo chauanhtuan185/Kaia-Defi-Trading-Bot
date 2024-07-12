@@ -1,0 +1,998 @@
+[
+    {
+        "pair_address": "0xF1C961f001bd3F8278D4eC798B593f81C4e9851d",
+        "symbol": "USDT/WKLAY",
+        "token0": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x379dc1434aF86A1A3800915CaA84BC422ae490ca",
+        "symbol": "USDC/WKLAY",
+        "token0": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x0b37C99623Fd0161D9E6C2d42C81a99394Cb120F",
+        "symbol": "WETH/WKLAY",
+        "token0": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x084614B760B82544d151e4E4103c75733E41ED63",
+        "symbol": "WBTC/WKLAY",
+        "token0": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0xB4751f9518DdE3364C07C3143659d7aB19f080b3",
+        "symbol": "WEMIX/WKLAY",
+        "token0": {
+            "address": "0x73B37082cf4AB7Db393c76A1b6EC989aA5daB7D9",
+            "symbol": "WEMIX"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x94d22b5C65CB0D91618d130ca76e75DbF02C65c6",
+        "symbol": "BORA/WKLAY",
+        "token0": {
+            "address": "0xA5F0b791E9a391FE94b41cd0F5438FC5fFFa4Bb1",
+            "symbol": "BORA"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0xAD19F190eAC1c73cD81b7De0F53c87ed70726Ea0",
+        "symbol": "DAI/WKLAY",
+        "token0": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0xbF7e464E8cbEeDD695BF363d4E06149aEd4fE414",
+        "symbol": "WKLAY/LINK",
+        "token0": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        },
+        "token1": {
+            "address": "0xeB379eECe22BC5A2A446cE67321bf9aEd3A552e2",
+            "symbol": "LINK"
+        }
+    },
+    {
+        "pair_address": "0xA3fEd1215F37e74E1D9e3eD5CcC6b5429FC0D4F3",
+        "symbol": "APE/WKLAY",
+        "token0": {
+            "address": "0x7E1E4CFa32734f7bCb9D154F1CFF9133AA044e3c",
+            "symbol": "APE"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0xC1Ac3349bF4633c92C495787A1c00939a2843C51",
+        "symbol": "WKLAY/FRAX",
+        "token0": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        },
+        "token1": {
+            "address": "0xE765931bDD26192D986B19fC90300e9024e5C494",
+            "symbol": "FRAX"
+        }
+    },
+    {
+        "pair_address": "0xB20bAcA42C4E6dc738FD77b9D572b261899d837E",
+        "symbol": "XRP/WKLAY",
+        "token0": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x07A3D9D044Ae8366DB19AdaD82Cf367b0719d8ca",
+        "symbol": "KSP/WKLAY",
+        "token0": {
+            "address": "0x14721Bc03959dB3D1C3f5c89B44058798B724D92",
+            "symbol": "KSP"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0xD4F3B191eFc008654d41ED67A7dd2C78379c2ED2",
+        "symbol": "KDEX/WKLAY",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x5CFf22f2DcBB11C109b29b496A5C4AF498AF2FC4",
+        "symbol": "KDEX/USDT",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        }
+    },
+    {
+        "pair_address": "0xa2e58AcE7767a1dF555D691797C6ec88a48f9333",
+        "symbol": "KDEX/WETH",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        }
+    },
+    {
+        "pair_address": "0x4445E36fBA66779472DCEA8ed78F3C76c2FBcf3a",
+        "symbol": "KDEX/DAI",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        }
+    },
+    {
+        "pair_address": "0xbaC24e3F5B931CC8CB414178613E3ec568A8158d",
+        "symbol": "WETH/USDT",
+        "token0": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        }
+    },
+    {
+        "pair_address": "0xF73Db4Ff21e5D37FebdE048ea1705ddd91065bE7",
+        "symbol": "DAI/USDT",
+        "token0": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        }
+    },
+    {
+        "pair_address": "0xdFB9032868b6A1AD0C40aa52Da61B482878a927b",
+        "symbol": "USDC/WBTC",
+        "token0": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        },
+        "token1": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        }
+    },
+    {
+        "pair_address": "0xA9665Ab720Ac7CC6627becB241D27D9092C191E2",
+        "symbol": "APE/USDC",
+        "token0": {
+            "address": "0x7E1E4CFa32734f7bCb9D154F1CFF9133AA044e3c",
+            "symbol": "APE"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0xD0Bb48aE649173435703d8E9Be227e9563956BdE",
+        "symbol": "WETH/WBTC",
+        "token0": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        }
+    },
+    {
+        "pair_address": "0x72aB9093B099a3Ed8A9846eAfD2d79b34Dbef009",
+        "symbol": "XRP/WBTC",
+        "token0": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        },
+        "token1": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        }
+    },
+    {
+        "pair_address": "0x3C9E457A7684604EF0d6b5965F97a8b41D06F8BD",
+        "symbol": "DAI/BORA",
+        "token0": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "address": "0xA5F0b791E9a391FE94b41cd0F5438FC5fFFa4Bb1",
+            "symbol": "BORA"
+        }
+    },
+    {
+        "pair_address": "0xC12bc2DbC9d08ebA33A2d3ab8626b4aED333684c",
+        "symbol": "DAI/FRAX",
+        "token0": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "address": "0xE765931bDD26192D986B19fC90300e9024e5C494",
+            "symbol": "FRAX"
+        }
+    },
+    {
+        "pair_address": "0xd402C8a5545fF74385e4F3482d3869ECa55d99cd",
+        "symbol": "DAI/XRP",
+        "token0": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        }
+    },
+    {
+        "pair_address": "0x05a8C9563586148dDa56f4cF23f0eEF42CA0fe2F",
+        "symbol": "LDO/WKLAY",
+        "token0": {
+            "address": "0x090BA151e3a032d9D0C7dbF9C6187aB2ceaEac83",
+            "symbol": "LDO"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x6b963363756e09fA96d7584A5409064794F45F38",
+        "symbol": "KDEX/LINK",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0xeB379eECe22BC5A2A446cE67321bf9aEd3A552e2",
+            "symbol": "LINK"
+        }
+    },
+    {
+        "pair_address": "0x9aa4421bdBde5DeA5563F31c351aa4a2A79c68dd",
+        "symbol": "KDEX/KSP",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0x14721Bc03959dB3D1C3f5c89B44058798B724D92",
+            "symbol": "KSP"
+        }
+    },
+    {
+        "pair_address": "0x716F90F37EFE14Ab57479927d39b1DB1Ba4A1BcC",
+        "symbol": "USDT/FRAX",
+        "token0": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        },
+        "token1": {
+            "address": "0xE765931bDD26192D986B19fC90300e9024e5C494",
+            "symbol": "FRAX"
+        }
+    },
+    {
+        "pair_address": "0x478B7A2EF5877a4A38167A224dE3b160c1C49aD2",
+        "symbol": "USDT/XRP",
+        "token0": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        },
+        "token1": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        }
+    },
+    {
+        "pair_address": "0x4E4522F1B9F90b94eb96B0B49b382f5570f6D3EF",
+        "symbol": "KSP/USDC",
+        "token0": {
+            "address": "0x14721Bc03959dB3D1C3f5c89B44058798B724D92",
+            "symbol": "KSP"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0x06cB3DD361562777405aD3D92348D6dbf3267932",
+        "symbol": "WETH/LINK",
+        "token0": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0xeB379eECe22BC5A2A446cE67321bf9aEd3A552e2",
+            "symbol": "LINK"
+        }
+    },
+    {
+        "pair_address": "0xe069D2234e0658229563BEc864DD6919Cf13A540",
+        "symbol": "APE/WBTC",
+        "token0": {
+            "address": "0x7E1E4CFa32734f7bCb9D154F1CFF9133AA044e3c",
+            "symbol": "APE"
+        },
+        "token1": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        }
+    },
+    {
+        "pair_address": "0x626AFc8D1Aa992D1eA223944FDEE4E03966F1324",
+        "symbol": "WEMIX/BORA",
+        "token0": {
+            "address": "0x73B37082cf4AB7Db393c76A1b6EC989aA5daB7D9",
+            "symbol": "WEMIX"
+        },
+        "token1": {
+            "address": "0xA5F0b791E9a391FE94b41cd0F5438FC5fFFa4Bb1",
+            "symbol": "BORA"
+        }
+    },
+    {
+        "pair_address": "0x3fc2e8989fb1698C9d701583F93F58AB7277c806",
+        "symbol": "KSP/DAI",
+        "token0": {
+            "address": "0x14721Bc03959dB3D1C3f5c89B44058798B724D92",
+            "symbol": "KSP"
+        },
+        "token1": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        }
+    },
+    {
+        "pair_address": "0x59F5F637183Ca1A61313Ed7d3f989ef10CFb1A72",
+        "symbol": "KDEX/BORA",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0xA5F0b791E9a391FE94b41cd0F5438FC5fFFa4Bb1",
+            "symbol": "BORA"
+        }
+    },
+    {
+        "pair_address": "0x34742fF0F5D3c9b49165454B6f82B9d20E616aaD",
+        "symbol": "USDT/USDC",
+        "token0": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0xE689395864F5f416EDbdA08258D6E3d4a09b1256",
+        "symbol": "DAI/USDC",
+        "token0": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0x971D83770aF298774791a289bAa7A4Ea742696A9",
+        "symbol": "XRP/FRAX",
+        "token0": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        },
+        "token1": {
+            "address": "0xE765931bDD26192D986B19fC90300e9024e5C494",
+            "symbol": "FRAX"
+        }
+    },
+    {
+        "pair_address": "0x93f5c196B3cA4b5c095c630F60b953Bb58e80f87",
+        "symbol": "LDO/BORA",
+        "token0": {
+            "address": "0x090BA151e3a032d9D0C7dbF9C6187aB2ceaEac83",
+            "symbol": "LDO"
+        },
+        "token1": {
+            "address": "0xA5F0b791E9a391FE94b41cd0F5438FC5fFFa4Bb1",
+            "symbol": "BORA"
+        }
+    },
+    {
+        "pair_address": "0x93ec2422C2D7A249d98Ea190563252a89e9420de",
+        "symbol": "WEMIX/LINK",
+        "token0": {
+            "address": "0x73B37082cf4AB7Db393c76A1b6EC989aA5daB7D9",
+            "symbol": "WEMIX"
+        },
+        "token1": {
+            "address": "0xeB379eECe22BC5A2A446cE67321bf9aEd3A552e2",
+            "symbol": "LINK"
+        }
+    },
+    {
+        "pair_address": "0x20d0C2f95FB8b1A1F98f87b19126902d3Bf666Cf",
+        "symbol": "KSP/APE",
+        "token0": {
+            "address": "0x14721Bc03959dB3D1C3f5c89B44058798B724D92",
+            "symbol": "KSP"
+        },
+        "token1": {
+            "address": "0x7E1E4CFa32734f7bCb9D154F1CFF9133AA044e3c",
+            "symbol": "APE"
+        }
+    },
+    {
+        "pair_address": "0x1D9a7671D81AfA65593f3B2a27531Eb8d39Da2Ad",
+        "symbol": "KSP/USDT",
+        "token0": {
+            "address": "0x14721Bc03959dB3D1C3f5c89B44058798B724D92",
+            "symbol": "KSP"
+        },
+        "token1": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        }
+    },
+    {
+        "pair_address": "0x58c00c773A566a378250082e93C5C8460f51842B",
+        "symbol": "USDC/FRAX",
+        "token0": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        },
+        "token1": {
+            "address": "0xE765931bDD26192D986B19fC90300e9024e5C494",
+            "symbol": "FRAX"
+        }
+    },
+    {
+        "pair_address": "0xe62fBAea69f5aB61af5CE78866c8E190c50173eB",
+        "symbol": "WETH/DAI",
+        "token0": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        }
+    },
+    {
+        "pair_address": "0x9bf7751F7042Ad94fc02E5892B84D77f2b7a1F0c",
+        "symbol": "WEMIX/WBTC",
+        "token0": {
+            "address": "0x73B37082cf4AB7Db393c76A1b6EC989aA5daB7D9",
+            "symbol": "WEMIX"
+        },
+        "token1": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        }
+    },
+    {
+        "pair_address": "0x74896657A4a7A1e0242bc028045947d95fFf755f",
+        "symbol": "KDEX/USDC",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0x032Cd033Fdb9Eb0111F79F07627C7135F9F7fc8b",
+        "symbol": "KDEX/WEMIX",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0x73B37082cf4AB7Db393c76A1b6EC989aA5daB7D9",
+            "symbol": "WEMIX"
+        }
+    },
+    {
+        "pair_address": "0x93C0456eB9cC4b6976e07596561c9db225704c48",
+        "symbol": "LDO/LINK",
+        "token0": {
+            "address": "0x090BA151e3a032d9D0C7dbF9C6187aB2ceaEac83",
+            "symbol": "LDO"
+        },
+        "token1": {
+            "address": "0xeB379eECe22BC5A2A446cE67321bf9aEd3A552e2",
+            "symbol": "LINK"
+        }
+    },
+    {
+        "pair_address": "0xE95cf31654f12D0d1Ca869C6d246FedbF69970ac",
+        "symbol": "USDT/WBTC",
+        "token0": {
+            "address": "0x63b3aCe91D182013FEd2eBaa0a8dD9AeA243e865",
+            "symbol": "USDT"
+        },
+        "token1": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        }
+    },
+    {
+        "pair_address": "0xc4564E978Bf85f10ff6C75DA709b479EDC6d3f25",
+        "symbol": "XRP/APE",
+        "token0": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        },
+        "token1": {
+            "address": "0x7E1E4CFa32734f7bCb9D154F1CFF9133AA044e3c",
+            "symbol": "APE"
+        }
+    },
+    {
+        "pair_address": "0x4C6820760335aD4Db3Bcbc66d8A366293d7EaDD9",
+        "symbol": "WETH/BORA",
+        "token0": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0xA5F0b791E9a391FE94b41cd0F5438FC5fFFa4Bb1",
+            "symbol": "BORA"
+        }
+    },
+    {
+        "pair_address": "0x09470A80Cf96E90Fb45a04D8697E1bAb98996Fb2",
+        "symbol": "WETH/WEMIX",
+        "token0": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0x73B37082cf4AB7Db393c76A1b6EC989aA5daB7D9",
+            "symbol": "WEMIX"
+        }
+    },
+    {
+        "pair_address": "0x492E74514ABfef566520207e323462BC6A08b489",
+        "symbol": "APE/BORA",
+        "token0": {
+            "address": "0x7E1E4CFa32734f7bCb9D154F1CFF9133AA044e3c",
+            "symbol": "APE"
+        },
+        "token1": {
+            "address": "0xA5F0b791E9a391FE94b41cd0F5438FC5fFFa4Bb1",
+            "symbol": "BORA"
+        }
+    },
+    {
+        "pair_address": "0x0BcbBee3C9Af396b676cD1dc44d5fece91c871A0",
+        "symbol": "LDO/FRAX",
+        "token0": {
+            "address": "0x090BA151e3a032d9D0C7dbF9C6187aB2ceaEac83",
+            "symbol": "LDO"
+        },
+        "token1": {
+            "address": "0xE765931bDD26192D986B19fC90300e9024e5C494",
+            "symbol": "FRAX"
+        }
+    },
+    {
+        "pair_address": "0xeEab1Bd4939CF1363bE923C10657C742f95232CA",
+        "symbol": "KSP/XRP",
+        "token0": {
+            "address": "0x14721Bc03959dB3D1C3f5c89B44058798B724D92",
+            "symbol": "KSP"
+        },
+        "token1": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        }
+    },
+    {
+        "pair_address": "0x287d28192155C618eAA9474B9fA049E9FBf3F65B",
+        "symbol": "DAI/WBTC",
+        "token0": {
+            "address": "0x59D83777B3F1EBaC785D2BaE542B6E0846494855",
+            "symbol": "DAI"
+        },
+        "token1": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        }
+    },
+    {
+        "pair_address": "0x4631088dfb1Ae5F3373fA5214784d6F77Ce02E59",
+        "symbol": "WETH/USDC",
+        "token0": {
+            "address": "0x53Aa07E823E3Ef9034fd8FB19cddd1B6323eaae3",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0xB8C08c18F69bFCe344B2E8e6FA67a9F49810e911",
+        "symbol": "BORA/USDC",
+        "token0": {
+            "address": "0xA5F0b791E9a391FE94b41cd0F5438FC5fFFa4Bb1",
+            "symbol": "BORA"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0xDfb6dEd42DD2d067756BcE385D6817fEE0F4039a",
+        "symbol": "APE/LINK",
+        "token0": {
+            "address": "0x7E1E4CFa32734f7bCb9D154F1CFF9133AA044e3c",
+            "symbol": "APE"
+        },
+        "token1": {
+            "address": "0xeB379eECe22BC5A2A446cE67321bf9aEd3A552e2",
+            "symbol": "LINK"
+        }
+    },
+    {
+        "pair_address": "0xB5478B74540984cc4FA4c4dB418490408a34DEDd",
+        "symbol": "LDO/APE",
+        "token0": {
+            "address": "0x090BA151e3a032d9D0C7dbF9C6187aB2ceaEac83",
+            "symbol": "LDO"
+        },
+        "token1": {
+            "address": "0x7E1E4CFa32734f7bCb9D154F1CFF9133AA044e3c",
+            "symbol": "APE"
+        }
+    },
+    {
+        "pair_address": "0x552ddDBC10BdCB55dD65510e959D98c54A23368E",
+        "symbol": "XRP/USDC",
+        "token0": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0xfed7b39A008563FC7f246153f48Ac9dA6F4b61ed",
+        "symbol": "KRWI/WKLAY",
+        "token0": {
+            "address": "0x8d8e5b704e595D0B93Fd519a0A7E5FD3094D7DAD",
+            "symbol": "KRWI"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x7a927A29d760645ba8abe038f630d95D0ef166a7",
+        "symbol": "INF/WKLAY",
+        "token0": {
+            "address": "0x57867A3a623F7082a554b419521656875F52292d",
+            "symbol": "INF"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x3a2B9aba13a26590A4b1e6c57f2a12cF2969c3b5",
+        "symbol": "KDEX/WBTC",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0xB61786e9d895FFc77F6B755b2Ba479B706388BC1",
+            "symbol": "WBTC"
+        }
+    },
+    {
+        "pair_address": "0x8b81F1d3e239C46464A1c993c67a10A1C6D68E23",
+        "symbol": "LDO/XRP",
+        "token0": {
+            "address": "0x090BA151e3a032d9D0C7dbF9C6187aB2ceaEac83",
+            "symbol": "LDO"
+        },
+        "token1": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        }
+    },
+    {
+        "pair_address": "0x5eeda03B95316bCa1EBC268Fdf616EA4D89a21f9",
+        "symbol": "KDG/WKLAY",
+        "token0": {
+            "address": "0x40c6787885C83FBbd9fD1AE242dA406A8419Fc08",
+            "symbol": "KDG"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x63367A30810EC9EbFd18CDcE2679B9B674e4c03C",
+        "symbol": "KDEX/XRP",
+        "token0": {
+            "address": "0x061b1747C0479aF7402795b194e6c420367e1463",
+            "symbol": "KDEX"
+        },
+        "token1": {
+            "address": "0x7d5ffc60f2DE636d7B0c846C81D7F8B73bD9BD92",
+            "symbol": "XRP"
+        }
+    },
+    {
+        "pair_address": "0x96Da11e36Ba9b3B4Af16aCA25aB893Cf1D5Da179",
+        "symbol": "WEMIX/USDC",
+        "token0": {
+            "address": "0x73B37082cf4AB7Db393c76A1b6EC989aA5daB7D9",
+            "symbol": "WEMIX"
+        },
+        "token1": {
+            "address": "0xaE33AC5c631B80757A0cf1395d1Ce18F3EAA46C9",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0x8d63aaCddCDB313cc8CB182E260dF3b5d4DEfAf6",
+        "symbol": "KRWO/WKLAY",
+        "token0": {
+            "address": "0x3637A284636576697EC72a1b49b6Fcb28b019b2C",
+            "symbol": "KRWO"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x225e9374A2204fBC348B599705006380F69005Bd",
+        "symbol": "KRWC/WKLAY",
+        "token0": {
+            "address": "0x7E7843e36aDBb59eaFaED0327949C4ef90917D6e",
+            "symbol": "KRWC"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0xb5399A76d0db4888A007Ad2981AbB3A82056870A",
+        "symbol": "KK7/WKLAY",
+        "token0": {
+            "address": "0x1c1250e9b9AAD0890c93079E23378B02E92061bA",
+            "symbol": "KK7"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x5B841bd5F977a41656e253F65402D033fe9Feba4",
+        "symbol": "WKLAY/KK3812638179211989352",
+        "token0": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        },
+        "token1": {
+            "address": "0xe511407c35Ce2b9E1638Fbbb2C683A9c57dbb3C5",
+            "symbol": "KK3812638179211989352"
+        }
+    },
+    {
+        "pair_address": "0xDa24903CAF51eb1d68EbEB73c797946764e3aDA5",
+        "symbol": "KK106976941678315314/KK3812638179211989352",
+        "token0": {
+            "address": "0x96A6c7BCD404bED17097fb39B1e43EA3ded9e55E",
+            "symbol": "KK106976941678315314"
+        },
+        "token1": {
+            "address": "0x9A2D424958FB33a67cCE343449cEd95F497D0607",
+            "symbol": "KK3812638179211989352"
+        }
+    },
+    {
+        "pair_address": "0xa1961Cc7Fa73B044B95cCd162256EcfeeDE41c43",
+        "symbol": "WKLAY/KTA",
+        "token0": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        },
+        "token1": {
+            "address": "0xdEE16247cC22A7EAfe41f1a3104b2921B58D6d41",
+            "symbol": "KTA"
+        }
+    },
+    {
+        "pair_address": "0x6FFFf71108b4354619e3a8A2C64fA61eADB28208",
+        "symbol": "Bab/WKLAY",
+        "token0": {
+            "address": "0x88D857C9C71359fD0aAe742fC8465854cbd3e654",
+            "symbol": "Bab"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0xa94daA7891D8E2AbF611Eb80Ce798Ba10045d224",
+        "symbol": "WKLAY/EMPER",
+        "token0": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        },
+        "token1": {
+            "address": "0xda226eA912A4F50B6AB5e752EB70Ea03CEd53A56",
+            "symbol": "EMPER"
+        }
+    },
+    {
+        "pair_address": "0x8a9847B96e9AeB602851b69a7384BDEd7425608f",
+        "symbol": "USDC/WKLAY",
+        "token0": {
+            "address": "0x662F749D0BE29c2C5cAa722C46A6AbB3dadB045A",
+            "symbol": "USDC"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x4dF83620111C034A3378DD010dc33eb71D28B06b",
+        "symbol": "WETH/WKLAY",
+        "token0": {
+            "address": "0x336F03164A0faBcADCCA91eC656Dc9002B797bE0",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0x5dfa07660aaB9734540ac5828B6a6192f3668c40",
+            "symbol": "WKLAY"
+        }
+    },
+    {
+        "pair_address": "0x4a031cd55248b9Da3AC5Ecd7d33B34908e055CFE",
+        "symbol": "WKLAY/USDC",
+        "token0": {
+            "address": "0x5dfa07660aaB9734540ac5828B6a6192f3668c40",
+            "symbol": "WKLAY"
+        },
+        "token1": {
+            "address": "0x662F749D0BE29c2C5cAa722C46A6AbB3dadB045A",
+            "symbol": "USDC"
+        }
+    },
+    {
+        "pair_address": "0xE0BB35680ddDA3c74aF0696B81aCaD2c53A37e1D",
+        "symbol": "WKLAY/USDT",
+        "token0": {
+            "address": "0x5dfa07660aaB9734540ac5828B6a6192f3668c40",
+            "symbol": "WKLAY"
+        },
+        "token1": {
+            "address": "0xC20EeDe4d4068B02F5462763d4d5ffc37F1b9F15",
+            "symbol": "USDT"
+        }
+    },
+    {
+        "pair_address": "0xd0af220a020c0EA6C00de5e5a34941F8D05fB671",
+        "symbol": "WETH/USDT",
+        "token0": {
+            "address": "0x336F03164A0faBcADCCA91eC656Dc9002B797bE0",
+            "symbol": "WETH"
+        },
+        "token1": {
+            "address": "0xC20EeDe4d4068B02F5462763d4d5ffc37F1b9F15",
+            "symbol": "USDT"
+        }
+    },
+    {
+        "pair_address": "0xd0af220a020c0EA6C00de5e5a34941F8D05fB672",
+        "symbol": "LINK/WKLAY",
+        "token0": {
+            "address": "0xeB379eECe22BC5A2A446cE67321bf9aEd3A552e2",
+            "symbol": "LINK"
+        },
+        "token1": {
+            "address": "0xbb3273dC4CAC595AfB93559c3aa07e9E6A554Fc0",
+            "symbol": "WKLAY"
+        }
+    }
+]
