@@ -1,1 +1,1 @@
-# Kaia Defi Trading Bot
+# Defi Trading Bot
